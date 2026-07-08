@@ -1,6 +1,6 @@
 # Matrix Calculator in C++
 
-This is my first semester programming project developed using C++ in Dev-C++. The application performs matrix addition, subtraction, multiplication, transpose, and determinant calculation through a simple menu-driven interface.
+This is my first semester programming project developed using C LANGUAGE in Dev-C++  compiler. The application performs matrix addition, subtraction, multiplication, transpose, and determinant calculation through a simple menu-driven interface.
 
 ## Features
 - Matrix Addition
